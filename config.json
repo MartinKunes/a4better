@@ -1,0 +1,8 @@
+{
+    "peer_id": "kunes-peer1",
+    "udp_server_address": "172.31.255.255",
+    "udp_server_port": 9876,
+    "tcp_server_address": "0.0.0.0",
+    "tcp_server_port": 9876,
+    "http_server_port": 8000
+}
